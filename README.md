@@ -1,8 +1,6 @@
 # Nmax2
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/nmax2`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+[rubygems page](https://rubygems.org/gems/nmax2).
 
 ## Installation
 
@@ -22,7 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    ~ $ cat sample_data_40GB.txt | nmax 10000
+    1242315355154252146241642
+    152451425254542541542512
+    1545421542542151425214
+    4324324235545245242
+    ...
 
 ## Development
 
